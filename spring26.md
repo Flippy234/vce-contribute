@@ -13,3 +13,5 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Tyler Hanson](https://github.com/Flippy234) - 
+Student, play video games, workout, have two cats, Counter-Strike 2 enjoyer
